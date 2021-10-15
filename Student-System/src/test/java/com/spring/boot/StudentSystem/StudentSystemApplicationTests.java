@@ -1,10 +1,10 @@
-package com.moonrider.SpringApp;
+package com.spring.boot.StudentSystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringAppApplicationTests {
+class StudentSystemApplicationTests {
 
 	@Test
 	void contextLoads() {

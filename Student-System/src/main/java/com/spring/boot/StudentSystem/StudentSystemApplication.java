@@ -1,13 +1,13 @@
-package com.moonrider.SpringApp;
+package com.spring.boot.StudentSystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringAppApplication {
+public class StudentSystemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringAppApplication.class, args);
+		SpringApplication.run(StudentSystemApplication.class, args);
 	}
 
 }
